@@ -2,3 +2,4 @@
 Repositorio prueba por curso de GitHub
 
 Se siguen haciendo pruebas para el curso
+Se realiza prueba de historia en la nueva "Rama"
